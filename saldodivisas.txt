@@ -4,4 +4,4 @@ Este archivo contiene el saldo diario en dolares
 30-01-2023  cash: 1718  Citi: 4691,06   Mercantil: 3296
 -------------------------------------------------------
 01-02-2023  cash: 1718  Citi: 4691,06   Mercantil: 3136
-04-02-2023  cash: 1838  Citi: 4936,06   Mercantil: 3136
+04-02-2023  cash: 1878  Citi: 4966,06   Mercantil: 3136
